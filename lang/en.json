@@ -1,0 +1,22 @@
+{
+  "LOC.AbilityStr": "Strength",
+  "LOC.AbilityCon": "Constitution",
+  "LOC.AbilityDex": "Dexterity",
+  "LOC.AbilityInt": "Intelligence",
+  "LOC.AbilityWis": "Wisdom",
+  "LOC.AbilityCha": "Charisma",
+
+  "LOC.AbilityStrAbbr": "str",
+  "LOC.AbilityConAbbr": "con",
+  "LOC.AbilityDexAbbr": "dex",
+  "LOC.AbilityIntAbbr": "int",
+  "LOC.AbilityWisAbbr": "wis",
+  "LOC.AbilityChaAbbr": "cha",
+
+  "LOC.EffectCreate": "Create Effect",
+  "LOC.EffectToggle": "Toggle Effect",
+  "LOC.EffectEdit": "Edit Effect",
+  "LOC.EffectDelete": "Delete Effect",
+
+  "LOC.Add": "Add"
+}
