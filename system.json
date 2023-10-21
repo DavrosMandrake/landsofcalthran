@@ -27,7 +27,7 @@
   "primaryTokenAttribute": "health",
   "secondaryTokenAttribute": "power",
   "url": "",
-  "manifest": "https://github.com/DavrosMandrake/landsofcalthran",
+  "manifest": "https://github.com/DavrosMandrake/landsofcalthran/system.json",
   "download": "",
   "license": "LICENSE.txt",
   "changelog": "CHANGELOG.md"
